@@ -29,5 +29,6 @@ add_lunch_combo pa_p3113-userdebug
 add_lunch_combo pa_p3110-userdebug
 add_lunch_combo pa_p3100-userdebug
 add_lunch_combo pa_n7000-userdebug
+add_lunch_combo pa_triumph-userdebug
 add_lunch_combo pa_mint-userdebug
 add_lunch_combo pa_tf700t-userdebug
